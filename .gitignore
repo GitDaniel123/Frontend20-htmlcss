@@ -1,0 +1,8 @@
+log.txt
+#ignorerar en spicifik fil
+
+#*.txt
+#ignorerar alla .txt filer
+
+/Mappnamn
+#ignorear en hel map
